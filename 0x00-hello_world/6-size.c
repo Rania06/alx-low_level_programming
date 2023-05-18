@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
  * main -  A programm to print size of each type
- * Return :0 (success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
-printf("Size of a char:%d bytes(s)\n", sizeof(char));
-printf("Size of an int:%d bytes(s)\n", sizeof(int));
-printf("Size of a long long int:%d bytes(s)\n", sizeof(long int));
-printf("Size of a float:%d bytes(s)\n", sizeof(float));
+printf("Size of a char: %lu byte(s)\n", sizeof(char));
+printf("Size of an int: %lu byte(s)\n", sizeof(int));
+printf("Size of a long long int: %lu byte(s)\n", sizeof(long int));
+printf("Size of a float: %lu byte(s)\n", sizeof(float));
 return (0);
 }
