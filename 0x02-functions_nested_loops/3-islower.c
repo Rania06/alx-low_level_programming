@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* islower - task3 islower
+* _islower - task3 islower
 * @c: the character
 * Return: 1 (success) 0 upper
 */
