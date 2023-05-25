@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - causes an infinite loop
-*@\\o/\n: character
+*@'\\o/\"n': character
 * Return: 0
 */
 int main(void)
@@ -16,7 +16,7 @@ i = 0;
 *{
 *       putchar(i);
 *}
-*@\\o/\n - character
+*@'\\o/\"n': character
 */
 
 printf("Infinite loop avoided! \\o/\n");
