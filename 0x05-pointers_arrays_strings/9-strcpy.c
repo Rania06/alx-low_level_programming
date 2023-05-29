@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * char *_strcpy string pointed to by src
+ * char *_strcpy - string pointed to by src
  * @tt: to
  * @src: from
  * Return: string
